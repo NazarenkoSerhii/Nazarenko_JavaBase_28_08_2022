@@ -18,6 +18,8 @@ package com.hillel.nazarenko.lessons.lessons3;
             System.out.println((double) a / (double) b);
 
             System.out.println(a + b + 20);
+
+
         }
     }
 
