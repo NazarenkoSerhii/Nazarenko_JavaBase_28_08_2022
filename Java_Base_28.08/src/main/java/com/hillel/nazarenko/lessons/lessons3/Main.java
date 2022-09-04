@@ -19,8 +19,6 @@ package com.hillel.nazarenko.lessons.lessons3;
 
 
             System.out.println(a + b + 20);
-
-
         }
     }
 
