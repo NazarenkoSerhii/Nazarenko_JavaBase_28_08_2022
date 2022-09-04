@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IdeaProjects.iml" filepath="$PROJECT_DIR$/.idea/IdeaProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java_Base_28.08/New_28.08.iml" filepath="$PROJECT_DIR$/Java_Base_28.08/New_28.08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itproger-java/itproger-java.iml" filepath="$PROJECT_DIR$/itproger-java/itproger-java.iml" />
+    </modules>
+  </component>
+</project>
