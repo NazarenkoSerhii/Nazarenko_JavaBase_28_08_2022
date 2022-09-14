@@ -1,4 +1,4 @@
-package com.hillel.nazarenko.lessons4.homework4;
+package com.hillel.nazarenko.lessons.lessons4.homework4;
 
 public class Main {
     public static void main(String[] args) {

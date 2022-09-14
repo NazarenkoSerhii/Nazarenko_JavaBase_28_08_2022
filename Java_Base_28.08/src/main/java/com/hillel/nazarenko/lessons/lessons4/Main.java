@@ -1,4 +1,4 @@
-package com.hillel.nazarenko.lessons4;
+package com.hillel.nazarenko.lessons.lessons4;
 
 import java.util.Random;
 
