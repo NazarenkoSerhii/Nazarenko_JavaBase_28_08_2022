@@ -22,4 +22,5 @@ public class Person {
         String persona = "Позвонить гражданину " + n + " " + s + " из города " + c + " можно по номеру " + ph;
         return persona;
     }
+
 }
