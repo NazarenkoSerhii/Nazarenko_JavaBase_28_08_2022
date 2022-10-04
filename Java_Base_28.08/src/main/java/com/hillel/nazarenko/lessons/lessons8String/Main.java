@@ -20,7 +20,7 @@ public class Main {
 
 
 
-//        StringBuilder stringBuilder = new StringBuilder(); //не потоко безопасный
+//        StringBuilder stringBuilder = new StringBuilder(); //не потокобезопасный
 //        StringBuffer stringBuffer = new StringBuffer();  потокобезопасный
 
 //        String surname = "Ksenofontov    qwewqeqweqwe";
