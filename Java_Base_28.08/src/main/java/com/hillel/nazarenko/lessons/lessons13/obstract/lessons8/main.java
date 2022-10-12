@@ -1,4 +1,4 @@
-package com.hillel.nazarenko.lessons.lessons8;
+package com.hillel.nazarenko.lessons.lessons13.obstract.lessons8;
 
 public class main {
 //    import java.util.Arrays;

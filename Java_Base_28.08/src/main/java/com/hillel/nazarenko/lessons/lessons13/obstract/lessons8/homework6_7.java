@@ -1,4 +1,4 @@
-package com.hillel.nazarenko.lessons.lessons8;
+package com.hillel.nazarenko.lessons.lessons13.obstract.lessons8;
 
 public class homework6_7 {
     public static void main(String[] args) {

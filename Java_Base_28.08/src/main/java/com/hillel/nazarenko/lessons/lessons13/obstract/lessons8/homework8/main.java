@@ -1,4 +1,4 @@
-package com.hillel.nazarenko.lessons.lessons8.homework8;
+package com.hillel.nazarenko.lessons.lessons13.obstract.lessons8.homework8;
 
 import java.util.Arrays;
 
