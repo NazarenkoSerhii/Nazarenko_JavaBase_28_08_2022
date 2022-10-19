@@ -23,7 +23,6 @@ public class Main {
                 String choice = scanner.nextLine().toUpperCase();
                 if (choice.equals("NO")) {
                     System.out.println("Общая цена за " + counterDrink + " шт. " + Drinks.totalCheck + " денег ");
-//                    System.out.println("Общее количество напитков " + counterDrink + " шт. " );
                     System.exit(0);
                 }
                 for (DrinksMachine drinks : drinksMachines) {
